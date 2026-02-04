@@ -279,20 +279,7 @@ DevOps:
 - [ ] Phase 10: Deployment
 - [ ] Final Projects
 
----
 
-## Contributing
-
-Feel free to contribute to this roadmap by:
-- Adding more resources
-- Suggesting improvements
-- Sharing your learning experience
-
----
-
-## License
-
-This roadmap is open-source and available for educational purposes.
 
 ---
 
