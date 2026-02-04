@@ -157,7 +157,7 @@ src/
 - File Upload (`multer`)
 - Image Processing (`sharp`)
 - Email (`nodemailer`)
-- Caching (Redis)
+- Caching (apichache, nde-cach)
 
 ---
 
